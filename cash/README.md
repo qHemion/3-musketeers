@@ -10,7 +10,11 @@
   - It uses the [Exchange rate API][api] to get the latest news about the change rate
   - It can convert to [many currencies]
 
+## Installation
 
+```sh
+❯ npm install
+```
 
 ### Getting started :
 
